@@ -1,2 +1,2 @@
 # TestGitHub
-Git Hub Test folder
+tGitHub is a repository for showing the bare minimums of githubs
